@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-alipay@^0.1.4",
+        "scope": null,
+        "escapedName": "react-native-alipay",
+        "name": "react-native-alipay",
+        "rawSpec": "^0.1.4",
+        "spec": ">=0.1.4 <0.2.0",
+        "type": "range"
+      },
+      "/Users/gaomu/Documents/workspaces/chuming.zhuang/gitlab/client/app-client"
+    ]
+  ],
+  "_cnpm_publish_time": 1487104008581,
+  "_from": "react-native-alipay@>=0.1.4 <0.2.0",
+  "_id": "react-native-alipay@0.1.4",
+  "_inCache": true,
+  "_location": "/react-native-alipay",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-alipay-0.1.4.tgz_1487104008302_0.924297881545499"
+  },
+  "_npmUser": {
+    "name": "tdzl2003",
+    "email": "tdzl2003@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-alipay@^0.1.4",
+    "scope": null,
+    "escapedName": "react-native-alipay",
+    "name": "react-native-alipay",
+    "rawSpec": "^0.1.4",
+    "spec": ">=0.1.4 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-alipay/download/react-native-alipay-0.1.4.tgz",
+  "_shasum": "8b86781a4c2c61506cf8d75ac41c800ca1cf4a46",
+  "_shrinkwrap": null,
+  "_spec": "react-native-alipay@^0.1.4",
+  "_where": "/Users/gaomu/Documents/workspaces/chuming.zhuang/gitlab/client/app-client",
+  "author": {
+    "name": "tdzl2003"
+  },
+  "dependencies": {},
+  "description": "支付宝功能接入",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8b86781a4c2c61506cf8d75ac41c800ca1cf4a46",
+    "size": 4124861,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-alipay/download/react-native-alipay-0.1.4.tgz"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "alipay"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "maintainers": [
+    {
+      "name": "adin",
+      "email": "phpgege@163.com"
+    },
+    {
+      "name": "tdzl2003",
+      "email": "tdzl2003@gmail.com"
+    }
+  ],
+  "name": "react-native-alipay",
+  "optionalDependencies": {},
+  "publish_time": 1487104008581,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.4"
+}
