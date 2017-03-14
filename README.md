@@ -1,10 +1,11 @@
-声明：软件所有版本均来自：https://www.npmjs.com/package/react-native-alipay
+声明：软件所有版权均来自：https://www.npmjs.com/package/react-native-alipay
 使用npm install react-native-alipay安装的是原作者的内容
-个人仅仅是修改了ios部分回调支付后的回调。
-使用 npm install git+https://github.com/zhuangchuming/react-native-alipay.git安装本人仓库修改后的代码
+个人仅仅是修改了ios部分回调支付后的回调，由于作者没有在github上面放置仓库，故才拿作者的代码来上传。
+安装本人仓库的命令: npm install git+https://github.com/zhuangchuming/react-native-alipay.git
 
 
 以下均是原作者的原创：
+
 ## 安装
 
 首先安装rnpm
